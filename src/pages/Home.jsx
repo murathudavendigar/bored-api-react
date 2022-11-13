@@ -1,6 +1,5 @@
 import axios from "axios";
 import { useState } from "react";
-import { Button } from "../styles/Button.styled";
 import MainDiv, { Div } from "../styles/Home.styled";
 import { InputBox, InputRange } from "../styles/InputBox.styled";
 import { LinkStyledComp } from "../styles/Link.styled";
