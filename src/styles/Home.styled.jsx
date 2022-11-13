@@ -11,6 +11,7 @@ const MainDiv = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  border-radius: 10px;
 
   /* justify-content: center; */
 
@@ -64,7 +65,8 @@ export const Div = styled.div`
   align-items: center;
   font-family: monospace;
   justify-content: center;
-  background-color: rgba(29, 33, 43, 0.4);
-  height: 100vh;
+  /* background-color: rgba(29, 33, 43, 0.4); */
+  /* height: 100vh; */
   overflow: hidden;
+  margin-top: 80px;
 `;
