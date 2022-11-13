@@ -114,6 +114,7 @@ const Home = () => {
                 href={`mailto:${email}?subject=Daily%20Activity&body=Don't%20forget!!!%20${data?.activity}%20😊`}>
                 Send Mail
               </LinkStyledComp>
+              <p>Captain Price | {new Date().getFullYear()}</p>
             </MainDiv>
           </Div>
 

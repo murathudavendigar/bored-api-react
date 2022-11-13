@@ -3,7 +3,7 @@ import styled from "styled-components";
 const MainDiv = styled.div`
   position: relative;
   width: 30rem;
-  height: 31rem;
+  height: 33rem;
   text-align: center;
   color: #252b37;
   background-color: rgba(21, 24, 35, 0.7);
@@ -69,5 +69,5 @@ export const Div = styled.div`
   /* background-color: rgba(29, 33, 43, 0.4); */
   /* height: 100vh; */
   overflow: hidden;
-  margin-top: 80px;
+  margin-top: 70px;
 `;
