@@ -3,8 +3,8 @@
 :root {
   --text-color: rgb(1, 11, 20);
   --shadow-color: hsla(210, 40%, 52%, 0.4);
-  --btn-color: #bc19dd;
-  --bg-color: #08f161;
+  --btn-color: #ceadd4;
+  --bg-color: linear-gradient(90deg, #bc19dd, #08f161);
 }
 
 button {
@@ -35,7 +35,7 @@ button:focus {
 
 .right::after,
 button::after {
-  content: var(--content);
+  content: "Create Activity";
   display: block;
   position: absolute;
   white-space: nowrap;
@@ -44,7 +44,7 @@ button::after {
 }
 
 button::after {
-  font-weight: 200;
+  font-weight: 300;
   top: -30px;
   left: -20px;
 }
@@ -65,7 +65,6 @@ button::after {
 .right::after {
   top: -30px;
   left: calc(-66% - 20px);
-
   background: var(--bg-color);
   color: transparent;
   transition: transform 0.4s ease-out;

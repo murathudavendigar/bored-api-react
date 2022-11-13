@@ -3,7 +3,7 @@ import styled from "styled-components";
 const MainDiv = styled.div`
   position: relative;
   width: 30rem;
-  height: 30rem;
+  height: 31rem;
   text-align: center;
   color: #252b37;
   background-color: rgba(21, 24, 35, 0.7);
@@ -63,6 +63,7 @@ export default MainDiv;
 export const Div = styled.div`
   display: flex;
   align-items: center;
+  justify-content: center;
   font-family: monospace;
   justify-content: center;
   /* background-color: rgba(29, 33, 43, 0.4); */
