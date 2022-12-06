@@ -69,7 +69,6 @@ To create an advanced app with React and use Bored API
 - Styled-Components
 - JSX Elements
 - CSS custom properties
--
 
 ### Useful resources
 
