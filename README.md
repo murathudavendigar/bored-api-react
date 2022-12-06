@@ -50,8 +50,9 @@ To create an advanced app with React and use Bored API
 
 ## Screenshot
 
+
 <p align="center">
-<a href="https://bored-api-react.netlify.app/"><img src="https://media-exp1.licdn.com/dms/image/C4D22AQG1TNPkPVWNhw/feedshare-shrink_800/0/1669823576628?e=1672876800&v=beta&t=cz18JaR2CbWLyrJxNrhtngnrFWLQa6NljboAZHVrdgM" alt="screenshot"></a>
+<a href="https://bored-api-react.netlify.app/"><img src="https://user-images.githubusercontent.com/109613328/205906176-255864ce-32b9-4f58-9217-a5bdc2326f9b.gif" alt="screenshot"></a>
 </p>
 
 ## Links
